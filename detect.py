@@ -34,7 +34,7 @@ while(True):
 
 
     cv2.imshow("FACE",img);
-    if(cv2.waitKey(1)==ord('q')):                    # q - exit
+    if(cv2.waitKey(1)==ord('q')):                    # q - 
         break;
 
 cam.release()
