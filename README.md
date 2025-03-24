@@ -42,7 +42,7 @@ This system has potential applications in areas like security access control, us
 - Optional: Customize `src/main.py` to specify arguments for video input, confidence thresholds, etc.
 
 ## Project Structure
-```
+
 face_recognition_project/
 ├── data/
 │   ├── raw_data/         # Raw facial image files
