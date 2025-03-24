@@ -24,7 +24,7 @@ This system has potential applications in areas like security access control, us
    ```
 
 2. **Install dependencies:**
-   ```sh
+   ```
    pip install -r requirements.txt
    ```
 
