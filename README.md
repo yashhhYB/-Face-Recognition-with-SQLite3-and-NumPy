@@ -1,6 +1,4 @@
-Certainly! Below is an improved and rearranged version of your `README.md` file:
 
-```markdown
 # Face Recognition with SQLite3 and NumPy
 
 ![Build Status](https://img.shields.io/badge/build-passing-brightgreen)
@@ -228,4 +226,3 @@ def recognize_faces(input_face_data, known_face_data):
 # Utility functions can be added here if needed
 ```
 
-By following this structure and filling in the files with relevant code and documentation, you can create a well-organized and professional-looking face recognition project using NumPy, SQLite3, and OpenCV. Once your project is ready, you can follow the steps to initialize a Git repository, commit your files, and push them to GitHub.
