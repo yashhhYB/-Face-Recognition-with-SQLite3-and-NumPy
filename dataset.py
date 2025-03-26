@@ -6,7 +6,7 @@ import sqlite3
 faceDetect=cv2.CascadeClassifier('haarcascade_frontalface_default.xml');
 cam=cv2.VideoCapture(0)
 
-def insertorupdate(Id,Name,age):               #function is for sqlite database
+def insertorupdate(Id,Name,age):               #f
     conn=sqlite3.connect("sqlite.db")         #connect database
     cmd="SELECT * FROM STUDENTS WHERE ID="+str(Id)
     cursor=conn.execute(cmd)             #cursor to execute statement
