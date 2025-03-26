@@ -44,7 +44,10 @@ while(True):
         cv2.waitKey(100)                     #delay time
     cv2.imshow("Face",img)                 #show faces detected in web camera
     cv2.waitKey(1);
+ branch2
+    if(sampleNum>20):                 #if asdjhassj
     if(sampleNum>20):                 #if the dataset is > 20 break
+ main
         break;
 
 cam.release()
