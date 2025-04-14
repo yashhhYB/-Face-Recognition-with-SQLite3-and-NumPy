@@ -1,6 +1,7 @@
 
 # Face Recognition Attendence System with SQLite3 and NumPy
 
+
 ![Build Status](https://img.shields.io/badge/build-passing-brightgreen)
 ![License](https://img.shields.io/badge/license-MIT-blue.svg)
 
