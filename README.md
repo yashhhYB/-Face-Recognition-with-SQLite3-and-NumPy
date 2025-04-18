@@ -203,6 +203,7 @@ def get_face_data(conn, name):
     return None
 ```
 
+
 #### `src/face_recognition.py`
 ```python
 import cv2
